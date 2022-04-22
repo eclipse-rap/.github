@@ -12,4 +12,4 @@ The Eclipse RAP project is split into multiple Git repositories, which are all p
 
 ## Contributing
 
-[Contributions are always welcome!](../CONTRIBUTING.md)
+[Contributions are always welcome!](https://github.com/eclipse-rap/.github/blob/main/CONTRIBUTING.md)
